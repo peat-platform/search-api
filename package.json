@@ -1,6 +1,6 @@
 {
-  "name": "object_api",
-  "description": "Object API for the OPENi Cloudlet Platform",
+  "name": "search_api",
+  "description": "Search API for the OPENi Cloudlet Platform",
   "version": "0.1.0",
   "homepage": "openi-ict.eu",
   "author": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:OPENi-ict/object-api.git"
+    "url": "git@github.com:OPENi-ict/search_api.git"
   },
   "main": "lib/main",
   "engines": {
