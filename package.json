@@ -1,0 +1,39 @@
+{
+  "name": "search_api",
+  "description": "Search API for the OPENi Cloudlet Platform",
+  "version": "0.1.0",
+  "homepage": "openi-ict.eu",
+  "author": {
+    "name": "dmccarthy",
+    "email": "dmccarthy@tssg.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:OPENi-ict/search_api.git"
+  },
+  "main": "lib/main",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "dependencies": {
+    "dbc": "OPENi-ict/dbc",
+    "elasticsearch": "^2.3.0",
+    "http": "",
+    "jsonwebtoken": "",
+    "loglet": "git://github.com/OPENi-ict/loglet",
+    "m2nodehandler": "OPENi-ict/m2nodehandler",
+    "moment": "",
+    "openi-cloudlet-utils": "OPENi-ict/cloudlet-utils",
+    "openi-logger": "OPENi-ict/openi-logger",
+    "underscore": "^1.6.0",
+    "validator": ""
+  },
+  "keywords": [],
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.6.5"
+  }
+}
