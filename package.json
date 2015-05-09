@@ -1,5 +1,5 @@
 {
-  "name": "search_api",
+  "name": "search-api",
   "description": "Search API for the PEAT Cloudlet Platform",
   "version": "0.1.0",
   "homepage": "peat-platform.org",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:peat-platform/search_api.git"
+    "url": "git@github.com:peat-platform/search-api.git"
   },
   "main": "lib/main",
   "engines": {
