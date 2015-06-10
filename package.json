@@ -29,6 +29,7 @@
     "openi-cloudlet-utils": "OPENi-ict/cloudlet-utils",
     "openi-logger": "OPENi-ict/openi-logger",
     "underscore": "^1.6.0",
+    "squel" : "",
     "validator": ""
   },
   "keywords": [],
