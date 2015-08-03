@@ -29,7 +29,8 @@
     "cloudlet-utils": "peat-platform/cloudlet-utils",
     "peat-logger": "peat-platform/peat-logger",
     "underscore": "^1.6.0",
-    "validator": ""
+    "validator": "",
+    "squel": ""
   },
   "keywords": [],
   "devDependencies": {
